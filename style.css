@@ -2,6 +2,19 @@
     padding:0%;
     margin:0%;
 }
+@media(max-width:420px){
+    .menu{
+        width:360px;
+        height:180px;
+    }
+    .con{
+        margin-left: 250px;
+        width: fit-content;
+    }
+    #f{
+        width:1000px;
+    }
+}   
 body{
 background-color:#656D3F;
  background-size:cover;

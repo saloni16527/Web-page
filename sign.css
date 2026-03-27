@@ -2,6 +2,13 @@ body{
 background-color:#656D3F;
 margin-left: 650px;
 }
+@media(max-width:420px){
+  .main{
+    align-content: center;
+    width:fit-content;
+    margin-left: 70px;
+  }
+}
 #sign{
     color: #492828;
     font-family: Arial, Helvetica, sans-serif;
